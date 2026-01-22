@@ -1,0 +1,12 @@
+flask
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+scikit-learn
+joblib
+beautifulsoup4
+requests
+lxml
+selenium
+webdriver-manager

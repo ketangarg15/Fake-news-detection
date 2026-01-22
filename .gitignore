@@ -1,0 +1,50 @@
+# General
+.DS_Store
+.env
+.vscode/ 
+.idea/ 
+/logs/ 
+/build/ 
+*.log
+*.tmp
+*.backup
+.ipynb_checkpoints
+
+# Python
+__pycache__/ 
+*.py[cod]
+*$py.class
+venv/
+.Python
+pip-log.txt 
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Machine Learning & Data
+# Directories for large, untracked data and models
+/data/ 
+/models/ 
+/notebooks/checkpoints/ 
+*.csv.gz 
+*.parquet
+*.feather
+*.pkl
+*.joblib
+*.h5 # Keras models
+*.hdf5
+*.bin
+!README.md 
+
+# R (if applicable)
+.Rproj # R project file
+.Rhistory
+.Rdata
+.Ruserdata
+# End of .gitignore
