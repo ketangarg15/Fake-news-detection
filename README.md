@@ -3,12 +3,20 @@
 A hybrid machine learning system for detecting fake news using semantic understanding, stylistic analysis, and knowledge base similarity. The system combines multiple models through an ensemble (meta-learning) approach to improve prediction accuracy and reliability.
 
 🚀 Features
+
 🔍 Semantic Analysis using transformer-based embeddings
+
 ✍️ Stylistic Analysis using linguistic features
+
 📚 Knowledge Base Validation using FAISS similarity search
+
 🧠 Ensemble Learning (Meta Model) for final prediction
+
 🌐 Web Interface for real-time news verification
+
 🔄 Knowledge Base Update with new articles
+
+
 🧠 Model Architecture
 Input News Article
         ↓
